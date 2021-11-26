@@ -25,3 +25,5 @@ In order to decide whether to update the DOM react compares the content produced
 ```
 SubComponent
 ```
+
+![virtual-dom.png](./docs/images/virtual-dom.png)
