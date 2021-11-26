@@ -1,2 +1,4 @@
-# react
-Notes and examples on React.JS 
+# React
+
+* [Notes](/notes/README.MD)
+
