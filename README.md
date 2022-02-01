@@ -6,7 +6,7 @@ This repository contains information pertaining to working with React in an ente
 * Howtos
 * Cheat sheets
 * Tutorials
-* [Examples](./docs/examples/README.md)
+* [Examples](./docs/examples/README.MD)
 * [Tools](./docs/tools/README.MD)
 
 
