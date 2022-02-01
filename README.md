@@ -6,24 +6,7 @@ This repository contains information pertaining to working with React in an ente
 * Howtos
 * Cheat sheets
 * Tutorials
-* Example Code
-* Tools
-
-Let us cover each in turn
-
-## Notes
-
-
-## How-To
-
-
-## Tutorials
-
-## Example Code
- * [Rendering Basics](./docs/examples/rendering-basics/README.md)
- * [Redux Simplest App](./docs/examples/redux-first-app/README.md)
-
-## Code
-
+* [Examples](./docs/examples/README.md)
+* [Tools](./docs/tools/README.MD)
 
 
