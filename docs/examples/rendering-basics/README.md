@@ -1,5 +1,5 @@
 # Rendering Basics
-To highlight the basics of React rendering this project contains a simple React app that consists of two components; a RootComponent and a Child Components. See [RootComponent.tsx](./src/RootComponent.tsx). We can visualize our components and the DOM elements logically as depicted in the following diagram.
+To highlight the basics of React rendering this project contains a simple React app that consists of a single component; a RootComponent and a Child Components. See [RootComponent.tsx](./src/RootComponent.tsx). We can visualize our components and the DOM elements logically as depicted in the following diagram.
 
 ![components.png](./docs/images/components.png)
 
