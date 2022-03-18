@@ -1,0 +1,10 @@
+{
+  "short_name": "React Rendering Example",
+  "name": "React Rendering Example",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
